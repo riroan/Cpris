@@ -295,6 +295,6 @@ void Game2D::drawGrid()
     if (draw_grid)
     {
         setLineWidth(1);
-        jm::drawGrid(Colors::gray, 0.5f); // Note: Game2D::drawGrid() vs jm::drawGrid(...)
+        drawGrid2(Colors::gray, 0.5f); // Note: Game2D::drawGrid() vs jm::drawGrid(...)
     }
 }

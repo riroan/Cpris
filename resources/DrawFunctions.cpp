@@ -153,7 +153,7 @@ void drawFilledTriangle(const RGB &color, const float &edge_length)
     drawFilledRegularConvexPolygon(color, edge_length * 0.5f * sqrtf(2.0f), 90.0f, 3);
 }
 
-void drawGrid(const RGB &color, const float &dx)
+void drawGrid2(const RGB &color, const float &dx)
 {
     const float maxl = 2.0f;
     const float dy = dx;
