@@ -16,4 +16,5 @@ namespace Colors
     const RGB white(255, 255, 255);
     const RGB gold(255, 223, 0);
     const RGB silver(192, 192, 192);
+    const RGB purple(139, 0, 255);
 }
