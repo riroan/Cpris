@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpris_Demo", "Cpris_Demo\Cpris_Demo.vcxproj", "{139F27A4-15C4-4756-A8AF-4AD2F503026D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{139F27A4-15C4-4756-A8AF-4AD2F503026D}.Debug|x64.ActiveCfg = Debug|x64
+		{139F27A4-15C4-4756-A8AF-4AD2F503026D}.Debug|x64.Build.0 = Debug|x64
+		{139F27A4-15C4-4756-A8AF-4AD2F503026D}.Debug|x86.ActiveCfg = Debug|Win32
+		{139F27A4-15C4-4756-A8AF-4AD2F503026D}.Debug|x86.Build.0 = Debug|Win32
+		{139F27A4-15C4-4756-A8AF-4AD2F503026D}.Release|x64.ActiveCfg = Release|x64
+		{139F27A4-15C4-4756-A8AF-4AD2F503026D}.Release|x64.Build.0 = Release|x64
+		{139F27A4-15C4-4756-A8AF-4AD2F503026D}.Release|x86.ActiveCfg = Release|Win32
+		{139F27A4-15C4-4756-A8AF-4AD2F503026D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DCB6B33-1977-4C0E-A40C-D234E8F40A86}
+	EndGlobalSection
+EndGlobal
