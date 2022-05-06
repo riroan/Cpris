@@ -9,11 +9,15 @@
 
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
+
 #include <thread> // std::this_thread::sleep_for
 #include <iostream>
 #include <vector>
 #include <string>
 #include <map>
+#include <memory>
+#include <random>
+#include <list>
 
 class Game2D
 {
