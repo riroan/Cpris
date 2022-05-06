@@ -489,3 +489,7 @@ FodyWeavers.xsd
 
 # compile code
 *.sh
+
+/blocks
+
+*.txt
